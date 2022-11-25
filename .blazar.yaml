@@ -1,5 +1,6 @@
 buildpack:
   name: Blazar-Buildpack-Java
+  branch: rrotella-patch-2
 
 env:
   SET_VERSION_OVERRIDE: "4.12.0-$GIT_BRANCH-SNAPSHOT"
